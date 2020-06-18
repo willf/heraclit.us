@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heraclitus</title>
+    <link>https://heraclit.us/</link>
+    <description>Recent content on Heraclitus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2020 15:25:46 -0400</lastBuildDate>
+    
+	<atom:link href="https://heraclit.us/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://heraclit.us/about/</link>
+      <pubDate>Thu, 18 Jun 2020 15:25:46 -0400</pubDate>
+      
+      <guid>https://heraclit.us/about/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
+      <title>Who was Heraclitus?</title>
+      <link>https://heraclit.us/posts/who-was-heraclitus/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://heraclit.us/posts/who-was-heraclitus/</guid>
+      <description>Not much is actually known about Heraclitus. Here&amp;rsquo;s what historians think they know.
+Heraclitus was an early Greek philosopher. He came from the Greek city of Ephesus, in Asia Minor area known as Ionia, populated by Greek-speaking people, but under the control of the Persian empire of the time. There is a myth or legend or story that he was at least an honorary king of Ionia, but there is not much evidence of that.</description>
+    </item>
+    
+  </channel>
+</rss>
